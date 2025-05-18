@@ -25,10 +25,10 @@ An intelligent desktop application for instant phone dialing using hotkeys. Auto
    - Windows OS
 
 2. **Install dependencies**:
-```bash
+
 pip install customtkinter pyperclip keyboard pystray Pillow
 
----
+
 
 ## 🇩🇪 Deutsche Version
 
