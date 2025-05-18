@@ -27,7 +27,7 @@ An intelligent desktop application for instant phone dialing using hotkeys. Auto
 
 ```bash
 pip install customtkinter pyperclip keyboard pystray Pillow
-´´´
+```
 
 ---
 
