@@ -9,7 +9,6 @@
 ### 📌 Overview
 An intelligent desktop application for instant phone dialing using hotkeys. Automatically detects phone numbers in the clipboard and provides a countdown before initiating the call.
 
-![Preview](https://via.placeholder.com/800x400.png?text=Desktop+Dialer+Demo)
 
 ### ✨ Key Features
 - 🔑 Customizable hotkey (e.g., Ctrl+Y)
@@ -28,14 +27,13 @@ An intelligent desktop application for instant phone dialing using hotkeys. Auto
 
 pip install customtkinter pyperclip keyboard pystray Pillow
 
-
+---
 
 ## 🇩🇪 Deutsche Version
 
 ### 📌 Überblick
 Eine intelligente Desktop-Anwendung zur sofortigen Telefonwahl über Tastenkombination. Erkennt automatisch Telefonnummern in der Zwischenablage und bietet einen Countdown bis zum Wählvorgang.
 
-![Vorschau](https://via.placeholder.com/800x400.png?text=Demo+Desktop-Dialer)
 
 ### ✨ Hauptfunktionen
 - 🔑 Anpassbare Tastenkombination (z.B. Strg+Y)
